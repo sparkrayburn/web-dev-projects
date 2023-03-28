@@ -4,7 +4,7 @@ var randomDiceImage = "images/dice" + randomNumber1 + ".png";
 
 var randomDiceImage2 = "images/dice" + randomNumber2 + ".png";
 
-
+//this is a comment
 document.querySelectorAll("img")[0].setAttribute("src", randomDiceImage);
 
 document.querySelectorAll("img")[1].setAttribute("src", randomDiceImage2);
